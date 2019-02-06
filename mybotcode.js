@@ -54,7 +54,7 @@ client.on('message', (receivedMessage) => {
     // ^goes through each custom emoji on server and reacts to received message
 })
 
-client.login('NTQyMjExMTkzMjg1MjQ2OTg2.DzqtWg.FIZlXSkiWl-doBBaUG9Kxx_whCg')
+client.login('')
 // ^logs in (starts) bot
 
 //https://www.youtube.com/watch?time_continue=226&v=7A6cNW04g2M (2/4/2019 left off at 18:12)
